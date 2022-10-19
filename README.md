@@ -14,3 +14,4 @@
     Apprendre différents langages de programmation. Pouvoir étendres mes connaissances en programmation et pouvoir créer fonctions et programmes avec une complexité moyenne. 
 
 ## Intêrets
+    J'ai un intêret envers les sciences en général, donc j'aimerais faire des programmes liés aux sciences.
