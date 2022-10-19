@@ -11,4 +11,4 @@
     Renforcer et étendre mes bases de programmation, mais aussi comprendre la logique à suivre.
 
 ## Attentes envers le programme
-    
+    Apprendre différents langages de programmation. Pouvoir étendres mes connaissances en programmation et pouvoir créer fonctions et programmes avec une complexité moyenne. 
