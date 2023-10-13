@@ -1,8 +1,8 @@
 # Paola Reyes Luna
 ## Expérience en programmation
-### LISP
-### VBA
-### Python
+## LISP
+## VBA
+## Python
 ### Méthode Agile
 
 ## Attentes envers le cours
@@ -12,4 +12,4 @@
     Apprendre différents langages de programmation. Pouvoir étendre mes connaissances en programmation et pouvoir créer fonctions et programmes.
 
 ## Intérêts
-    J'adore la programmation surtout le backend.
+    Technologie
